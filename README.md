@@ -1,4 +1,4 @@
-## CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+ # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
 
 ## AIM :
 To create an S3 bucket and EC2 instances for both Linux and Windows operating systems on AWS.
@@ -40,33 +40,40 @@ Connect to the Windows instance using RDP.</br>
 
 ### REG NUMBER : 212222240048
 ### NAME : KEERTHI VASAN A
+# OUTPUT
 
-## S3 BUCKET:
-![image](https://github.com/user-attachments/assets/61bf8a07-a98e-406c-bc1b-109a5ec02c66)
-### CONTENT IN BUCKET :
-![image](https://github.com/user-attachments/assets/f6b20402-3590-4f27-ada8-93773270bbf3)
+## S3 Bucket
 
-![image](https://github.com/user-attachments/assets/9d823ee7-0469-4ea2-9ca6-209b5a4b20b3)
-
-### VERSIONING :
-![image](https://github.com/user-attachments/assets/c3dc63f0-1a42-46e3-a158-b95ee29c3d2c)
-
-### REPLICATION :
-![image](https://github.com/user-attachments/assets/916faa13-76b6-407a-831e-d8b92e509923)
-![image](https://github.com/user-attachments/assets/b2f67958-840d-4657-8445-23c859ce5f18)
-
-## EC2 INSTANCE(LINUX):
-![image](https://github.com/user-attachments/assets/beaa2682-ae3d-4897-96c2-bd1e10117f01)
-![image](https://github.com/user-attachments/assets/aa26089b-8f1b-428d-82fd-ec252c33a5c3)
+![image](https://github.com/user-attachments/assets/4df7011f-3d8c-49f4-ae95-2f0bff324a95)
 
 
-## EC2 INSTANCE(WINDOWS):
-![image](https://github.com/user-attachments/assets/e9ebcf26-1dfd-4954-b545-b2d3d3a26d04)
+
+![image](https://github.com/user-attachments/assets/7e04beb4-2de5-4887-a654-97256b22a96a)
+
+
+
+![image](https://github.com/user-attachments/assets/e2792333-f0da-44aa-a8f4-74e2fb3c2479)
+
+
+![image](https://github.com/user-attachments/assets/6a2d98e8-a020-4713-a957-8cffc6c7676c)
+
+
+
+## EC2 
+![image](https://github.com/user-attachments/assets/74942442-c098-4dea-8320-6ef160e58475)
+
+
+![image](https://github.com/user-attachments/assets/ad7e1053-1384-4058-9855-4430dc78098a)
+
+
+![image](https://github.com/user-attachments/assets/451245ae-f851-43d3-8572-a4abd27e697d)
+
+
+
 
 
 ## RESULT
- 
-Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
+ Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
+
+
   
-
-
